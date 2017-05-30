@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479297601 source:e:\justforfun\c0\c0 compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1483162675 source:e:\justforfun\c0\14061211\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
